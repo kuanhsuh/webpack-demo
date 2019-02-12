@@ -3,4 +3,4 @@ import HomePage from './HomePage';
 import Person from './Person';
 import FetchApi from './FetchApi';
 
-// var modal = new Modal();
+var person = new Person('Danny', 'Red');
